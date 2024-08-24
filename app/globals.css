@@ -55,7 +55,7 @@
 
 /* ==== clerk class override ===== */
 
-.cl-userButtonPopoverActionButtonIcon {
+/* .cl-userButtonPopoverActionButtonIcon {
   color: white;
 }
 
@@ -76,8 +76,11 @@
 }
 .cl-userButtonPopoverActionButton {
   color: white;
-}
+} */
 
+/* .cl-providerIcon_github {
+  filter: invert(1) */
+/* } */
 /* =============================== */
 
 @layer utilities {
